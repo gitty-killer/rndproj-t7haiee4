@@ -1,4 +1,2 @@
-# rndproj-t7haiee4
-
-Random ruby project for random.
-
+# rndproj-t7haiee4\n\nSmall utility library for string formatting.\n
+New-FileDef
