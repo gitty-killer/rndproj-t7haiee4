@@ -1,6 +1,6 @@
 {
-  ""name"": ""rndproj-t7haiee4"",
-  ""goal"": ""metrics summarizer for release monitoring"",
-  ""language"": ""rust"",
-  ""template"": ""rust-lib""
+    "name":  "rndproj-t7haiee4",
+    "goal":  "metrics summarizer for release monitoring",
+    "language":  "rust",
+    "template":  "rust-lib"
 }
